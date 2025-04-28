@@ -1,1 +1,1 @@
-# FAQ-AI-proyect
+# FAQ-AI-project
